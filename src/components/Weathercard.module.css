@@ -1,0 +1,39 @@
+.cardMargin {
+  margin-bottom: 1vh;
+}
+
+.weather {
+  border: 2px solid gold;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+}
+
+.temp {
+  /* display: flex; */
+  /* border: 2px solid burlywood; */
+  align-self: flex-end;
+  width: 50%;
+  text-align: center;
+  padding: 0;
+}
+
+.tempDivIndicator {
+  border-bottom: 2px solid lightgray;
+  width: 100%;
+  display: block;
+}
+
+.tempDivValue {
+  border: 2px solid lightcoral;
+  width: 100%;
+  display: block;
+}
+
+.date {
+  border: 2px solid lightblue;
+  width: 50%;
+  display: flex;
+  /* align-self: flex-end; */
+  text-align: right;
+}

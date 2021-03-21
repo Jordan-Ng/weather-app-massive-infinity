@@ -1,0 +1,23 @@
+.container {
+  border: 2px solid lightblue;
+  border-radius: 10px;
+  height: 100vh;
+}
+
+.card {
+  margin-top: 5vh;
+}
+
+.background {
+  background-color: lightblue;
+}
+
+.tableContainer {
+  /* border: 2px solid red; */
+  width: 100%;
+}
+
+.table {
+  /* border: 2px solid olivedrab; */
+  width: 25%;
+}
